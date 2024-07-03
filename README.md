@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌹 Hello! I'm Arthur Duncan Bridges, an aspiring software developer from the University of Texas at San Antonio. <br>⌚ My passion for technology drives me to constantly explore and learn new skills. <br>🂱 Beyond coding, I enjoy reading and immersing myself in the vibrant worlds of anime. <br> 
 
+Contact Me: arthurbridges08@yahoo.com
+
 [Click Here to view Portfolio](https://codepro-abridges.github.io/Portfolio/)
 
 
