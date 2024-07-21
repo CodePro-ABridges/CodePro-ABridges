@@ -1,5 +1,22 @@
 # 💫 About Me:
-🌹 Hello! I'm Arthur Duncan Bridges, an aspiring software developer from the University of Texas at San Antonio.<br>⌚ My passion for technology drives me to constantly explore and learn new skills.<br>🂱 Beyond coding, I enjoy reading and immersing myself in the vibrant worlds of anime. 
+
+```
+class ArthurBridges:
+    def __init__(self):
+        self.name = "Arthur Bridges"
+        self.status = "Aspiring Software Developer"
+        self.location = "University of Texas at San Antonio"
+        self.passions = ["Technology", "Continuous Learning"]
+        self.hobbies = ["Reading", "Anime"]
+
+    def introduce(self):
+        print(f"Hello! I'm {self.name}, coding my way through life one line at a time.")
+        print(f"Currently studying at {self.location}.")
+        print("My tech passion drives me to constantly explore and learn new skills.")
+        print("When I'm not coding, you'll find me lost in a book or an anime world.")
+
+me = ArthurBridges()
+me.introduce() ```
 
 Contact Me: arthurbridges08@yahoo.com
 
