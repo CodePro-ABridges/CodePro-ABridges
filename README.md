@@ -5,13 +5,14 @@ class ArthurBridges:
     def __init__(self):
         self.name = "Arthur Bridges"
         self.status = "Aspiring Software Developer"
-        self.location = "University of Texas at San Antonio"
+        self.location = "San Antonio, TX"
+        self.school = "University of Texas at San Antonio"
         self.passions = ["Technology", "Continuous Learning"]
         self.hobbies = ["Reading", "Anime"]
 
     def introduce(self):
         print(f"Hello! I'm {self.name}, coding my way through life one line at a time.")
-        print(f"Currently studying at {self.location}.")
+        print(f"Graduated from {self.school}.")
         print("My tech passion drives me to constantly explore and learn new skills.")
         print("When I'm not coding, you'll find me lost in a book or an anime world.")
 
