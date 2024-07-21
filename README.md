@@ -1,4 +1,4 @@
-# 👨🏿‍💻About Me:
+# 👨🏿‍💻About Me
 
 ```python
 class ArthurBridges:
@@ -23,7 +23,7 @@ Contact Me: arthurbridges08@yahoo.com
 
 [Click Here to view Portfolio](https://codepro-abridges.github.io/Portfolio/)
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-bridges-62a82a157/) 
 
 # 💻 Tech Stack
