@@ -1,7 +1,6 @@
-# 💫 About Me:
+# About Me:
 
-```
-class ArthurBridges:
+```class ArthurBridges:
     def __init__(self):
         self.name = "Arthur Bridges"
         self.status = "Aspiring Software Developer"
@@ -16,7 +15,7 @@ class ArthurBridges:
         print("When I'm not coding, you'll find me lost in a book or an anime world.")
 
 me = ArthurBridges()
-me.introduce() ```
+me.introduce()```
 
 Contact Me: arthurbridges08@yahoo.com
 
