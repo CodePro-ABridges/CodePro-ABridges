@@ -16,8 +16,8 @@ class ArthurBridges:
         print("When I'm not coding, you'll find me lost in a book or an anime world.")
 
 me = ArthurBridges()
-me.introduce()```
-
+me.introduce() 
+```
 Contact Me: arthurbridges08@yahoo.com
 
 [Click Here to view Portfolio](https://codepro-abridges.github.io/Portfolio/)
