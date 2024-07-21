@@ -26,7 +26,7 @@ Contact Me: arthurbridges08@yahoo.com
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-bridges-62a82a157/) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 # Languages:
 
