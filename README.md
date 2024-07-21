@@ -1,6 +1,7 @@
 # About Me:
 
-```class ArthurBridges:
+```python
+class ArthurBridges:
     def __init__(self):
         self.name = "Arthur Bridges"
         self.status = "Aspiring Software Developer"
